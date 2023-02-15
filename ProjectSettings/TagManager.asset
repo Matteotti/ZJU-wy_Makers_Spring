@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Mushroom
+  - Enemy
+  - PlayerFeet
+  - Wall
+  - EnemyBody
+  - Stopper
+  - GoodEnemy
+  - DeadZone
+  - Tag
+  - Porter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Stopper
+  - Water
+  - UI
+  - Box
+  - Ground
+  - Player
+  - Enemy
+  - EnemyBody
+  - Spring
+  - Boss
+  - Shield
+  - BossAttack
+  - Trap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 2133723785
+    locked: 0
+  - name: Mid
+    uniqueID: 561384085
+    locked: 0
+  - name: Front
+    uniqueID: 794879489
+    locked: 0
+  - name: FFront
+    uniqueID: 2954496087
+    locked: 0
